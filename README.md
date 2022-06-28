@@ -1,13 +1,19 @@
-### Hi there 👋
+# Hi there I'm BeomJik 👋
 
-Here are some ideas to get you started:
+## Information about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![about](https://user-images.githubusercontent.com/100337712/176165041-7c5081c6-722d-4d5e-9e58-3ba5381ad3af.jpg)
+
+```Javascript
+const BeomJik = {
+    name: Bak BeomGeun,
+    birth: 2000.02.01,
+    gender: man,
+    height: 177cm,
+    code: [JavaScript, HTML, CSS],
+    advantage: [leadership, understanding, learning skills],
+    hobby: [boxing, finding good restaurants, listening to music],
+    specialAbility: [snging, running]
+    learning: react
+}
+```
