@@ -9,7 +9,7 @@ const BeomJik = {
     name: Bak BeomGeun,
     birth: 2000.02.01,
     sex: male,
-    height: 177cm,
+    height: 178cm,
     code: [
         JavaScript, HTML, CSS
         
