@@ -11,8 +11,7 @@ const BeomJik = {
     sex: "male",
     height: "178cm",
     code: [
-        JavaScript, HTML, CSS
-        
+        "JavaScript", "HTML", "CSS"        
         ],
     advantage: ["leadership", "understanding", "learning skills"],
     hobby: ["boxing", "finding good restaurants", "listening to music"],
