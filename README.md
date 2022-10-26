@@ -6,18 +6,18 @@
 
 ```Javascript
 const BeomJik = {
-    name: Bak BeomGeun,
-    birth: 2000.02.01,
-    sex: male,
-    height: 178cm,
+    name: "Bak BeomGeun",
+    birth: "2000.02.01",
+    sex: "male",
+    height: "178cm",
     code: [
         JavaScript, HTML, CSS
         
         ],
-    advantage: [leadership, understanding, learning skills],
-    hobby: [boxing, finding good restaurants, listening to music],
-    specialAbility: [snging, running],
-    learning: react
+    advantage: ["leadership", "understanding", "learning skills"],
+    hobby: ["boxing", "finding good restaurants", "listening to music"],
+    specialAbility: ["snging", "running"],
+    learning: "react"
 }
 ```
 
