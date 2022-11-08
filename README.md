@@ -15,7 +15,7 @@ const BeomJik = {
         ],
     advantage: ["leadership", "understanding", "learning skills"],
     hobby: ["boxing", "finding good restaurants", "listening to music"],
-    specialAbility: ["snging", "running"],
+    specialAbility: ["singing", "running"],
     learning: "react"
 }
 ```
